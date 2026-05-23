@@ -1,0 +1,49 @@
+{
+  "business": {
+    "name": "Bloom Aesthetics Clinic",
+    "type": "Aesthetics / Beauty Clinic"
+  },
+  "hours": {
+    "days": "Monday to Saturday",
+    "open": "9:00 AM",
+    "close": "7:00 PM",
+    "closed_days": ["Sunday"]
+  },
+  "services": [
+    {
+      "name": "Botox",
+      "price_from": 200,
+      "currency": "GBP",
+      "notes": "Price depends on area and units required"
+    },
+    {
+      "name": "Dermal Fillers",
+      "price_from": 250,
+      "currency": "GBP",
+      "notes": "Includes lip, cheek, and nasolabial fillers"
+    },
+    {
+      "name": "Initial Consultation",
+      "price_from": 0,
+      "currency": "GBP",
+      "notes": "Free of charge, no obligation"
+    }
+  ],
+  "booking": {
+    "channels": ["WhatsApp", "Website"],
+    "cancellation_policy": "24 hours notice required",
+    "rescheduling": "Contact us at least 24 hours before your appointment"
+  },
+  "escalation_triggers": [
+    "complaint",
+    "medical question",
+    "pricing negotiation",
+    "more than 2 unanswered questions",
+    "angry or frustrated sentiment",
+    "explicit request for human agent"
+  ],
+  "contact": {
+    "whatsapp": "Available via WhatsApp",
+    "website": "Available via website booking portal"
+  }
+}
