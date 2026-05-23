@@ -1,4 +1,3 @@
----
 # Test Transcript - Conversation Summary
 
 **Scenario:** A full multi-turn session covering FAQ, lead qualification, a mid-qualification pricing enquiry, and customer exit.
@@ -74,5 +73,3 @@ Qualification status: complete
 **Escalation triggered:** No  
 **Reason logged:** N/A  
 **SOP gaps recorded:** None
-
----

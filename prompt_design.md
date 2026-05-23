@@ -1,5 +1,3 @@
----
-
 # Prompt Design - Closira AI Agent
 
 ## 1. Full System Prompt
@@ -100,5 +98,3 @@ She answers what she knows, admits what she does not know, and escalates gracefu
 - Qualification questions are fixed and sequential.
 - Open-source models may be less reliable at strict JSON than OpenAI or Claude, so the parser accepts fenced JSON and extracts JSON objects defensively.
 - API failures return a safe fallback response, but production should add retry/backoff and provider health checks.
-
----

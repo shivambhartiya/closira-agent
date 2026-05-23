@@ -1,4 +1,3 @@
----
 # Test Transcript - In-Scope Question
 
 **Scenario:** Customer asks about Botox prices.
@@ -46,5 +45,3 @@ Qualification status: not_started
 **Escalation triggered:** No
 **Reason logged:** N/A
 **SOP gaps recorded:** None
-
----

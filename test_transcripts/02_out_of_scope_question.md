@@ -1,4 +1,3 @@
----
 # Test Transcript - Out-of-Scope Question
 
 **Scenario:** Customer asks about laser hair removal, then parking. A third planned gap question about teeth whitening is not reached because escalation triggers at the SOP-gap threshold.
@@ -51,5 +50,3 @@ Qualification status: not_started
 **Escalation triggered:** Yes
 **Reason logged:** SOP gap threshold reached - 2 consecutive unanswered questions
 **SOP gaps recorded:** laser hair removal, parking
-
----

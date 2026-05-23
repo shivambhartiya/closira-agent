@@ -1,4 +1,3 @@
----
 # Test Transcript - Lead Qualification
 
 **Scenario:** Customer has a short FAQ exchange, asks a Botox unit-pricing question during qualification, then answers qualification questions with short factual answers including "insta".
@@ -74,5 +73,3 @@ Qualification status: complete
 **Escalation triggered:** No  
 **Reason logged:** N/A  
 **SOP gaps recorded:** None
-
----

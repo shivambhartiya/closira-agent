@@ -1,4 +1,3 @@
----
 # Test Transcript - Escalation Trigger
 
 **Scenario:** Customer says, "i had your previous service it was pathetic."
@@ -46,5 +45,3 @@ Qualification status: not_started
 **Escalation triggered:** Yes
 **Reason logged:** COMPLAINT
 **SOP gaps recorded:** None
-
----

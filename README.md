@@ -1,5 +1,3 @@
----
-
 # Closira AI Agent - Bloom Aesthetics Clinic
 
 A Python CLI application demonstrating a 4-stage AI customer support workflow for Closira. It can run with OpenAI, Anthropic, or any OpenAI-compatible hosted model provider such as Hugging Face Inference Providers, OpenRouter, Together, Fireworks, Groq, or a hosted Qwen endpoint.
@@ -130,5 +128,3 @@ Do not commit `.env` or generated `logs/*.json`; both are ignored by `.gitignore
 - CLI prototype only; no WhatsApp, email, or phone webhook integration.
 
 See `prompt_design.md` for full design reasoning.
-
----
